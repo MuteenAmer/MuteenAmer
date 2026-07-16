@@ -1,0 +1,41 @@
+<svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#12182b"/>
+      <stop offset="100%" stop-color="#0a0e1a"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="720" height="300" rx="12" fill="url(#termBg)" stroke="#1c2a3f" stroke-width="1.5"/>
+
+  <rect x="0" y="0" width="720" height="34" rx="12" fill="#141c30"/>
+  <rect x="0" y="22" width="720" height="12" fill="#141c30"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="17" r="6" fill="#27c93f"/>
+  <text x="360" y="21" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#5c6b85">muteen@lahore: ~</text>
+
+  <g font-family="'Courier New', monospace" font-size="16" fill="#c9d6ea">
+    <text x="24" y="65"><tspan fill="#27c93f">muteen@lahore</tspan><tspan fill="#5c6b85">:~$ </tspan>whoami --verbose</text>
+
+    <text x="24" y="98" fill="#00f7ff">name:</text>
+    <text x="130" y="98">Muhammad Muteen Amer</text>
+
+    <text x="24" y="126" fill="#00f7ff">role:</text>
+    <text x="130" y="126">BS Computer Science @ UCP, Lahore</text>
+
+    <text x="24" y="154" fill="#00f7ff">focus:</text>
+    <text x="130" y="154">Machine Learning · IoT Security · Full-Stack</text>
+
+    <text x="24" y="182" fill="#00f7ff">building:</text>
+    <text x="145" y="182">Muteen Traders (business) + side projects</text>
+
+    <text x="24" y="210" fill="#00f7ff">status:</text>
+    <text x="130" y="210">open to collabs and interesting problems</text>
+
+    <text x="24" y="245">
+      <tspan fill="#27c93f">muteen@lahore</tspan><tspan fill="#5c6b85">:~$ </tspan><tspan id="cursor-text">_</tspan>
+      <animate xlink:href="#cursor-text" attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
