@@ -1,6 +1,5 @@
-[Uploading README.md…]()
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Muhammad Muteen Amer"/>
+  <img src="assets/banner.svg?v=2" width="100%" alt="Muhammad Muteen Amer"/>
 </div>
 
 <p align="center">
@@ -27,7 +26,7 @@ I also run **Muteen Traders**, so half my brain thinks in models and the other h
 
 </td>
 <td width="45%" valign="top">
-  <img src="assets/terminal.svg" width="100%" alt="terminal bio"/>
+  <img src="assets/terminal.svg?v=2" width="100%" alt="terminal bio"/>
 </td>
 </tr>
 </table>
