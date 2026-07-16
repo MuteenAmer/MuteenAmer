@@ -34,8 +34,10 @@
     <text x="130" y="210">open to collabs and interesting problems</text>
 
     <text x="24" y="245">
-      <tspan fill="#27c93f">muteen@lahore</tspan><tspan fill="#5c6b85">:~$ </tspan><tspan id="cursor-text">_</tspan>
-      <animate xlink:href="#cursor-text" attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      <tspan fill="#27c93f">muteen@lahore</tspan><tspan fill="#5c6b85">:~$ </tspan>
     </text>
+    <rect x="140" y="230" width="10" height="18" fill="#c9d6ea">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
   </g>
 </svg>
