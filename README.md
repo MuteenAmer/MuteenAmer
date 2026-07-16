@@ -34,12 +34,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuteenAmer&show_icons=true&hide_border=true&theme=radical&bg_color=00000000&title_color=ec4899&icon_color=f97316&text_color=333333"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuteenAmer&layout=compact&hide_border=true&theme=radical&bg_color=00000000&title_color=6366f1&text_color=333333"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuteenAmer&show_icons=true&hide_border=true&theme=radical&bg_color=161b22&title_color=ec4899&icon_color=f97316&text_color=e5e7eb"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuteenAmer&layout=compact&hide_border=true&theme=radical&bg_color=161b22&title_color=6366f1&text_color=e5e7eb"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuteenAmer&hide_border=true&background=00000000&stroke=a855f7&ring=ec4899&fire=f97316&currStreakLabel=ec4899" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuteenAmer&hide_border=true&background=161B22&stroke=a855f7&ring=ec4899&fire=f97316&currStreakLabel=ec4899&sideLabels=e5e7eb&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats"/>
 </p>
 
 <br/>
