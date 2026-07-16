@@ -1,109 +1,50 @@
 <div align="center">
-  <img src="assets/banner.svg?v=2" width="100%" alt="Muhammad Muteen Amer"/>
+  <img src="assets/banner.svg" width="100%" alt="Muhammad Muteen Amer"/>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuteenAmer&label=PROFILE%20VIEWS&color=0a0e1a&style=for-the-badge&labelColor=00f7ff" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MuteenAmer&label=PROFILE%20VIEWS&color=a855f7&style=for-the-badge&labelColor=6366f1" alt="profile views"/>
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Collab-ec4899?style=for-the-badge&labelColor=f97316" alt="status"/>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="assets/about-card.svg" width="80%" alt="about me"/>
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <img src="assets/projects-grid.svg" width="100%" alt="featured projects"/>
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,flask,tensorflow,pytorch,html,css,mongodb,git,github,linux,vscode&theme=light&perline=7" />
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuteenAmer&show_icons=true&hide_border=true&theme=radical&bg_color=00000000&title_color=ec4899&icon_color=f97316&text_color=333333"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuteenAmer&layout=compact&hide_border=true&theme=radical&bg_color=00000000&title_color=6366f1&text_color=333333"/>
 </p>
 
 <p align="center">
-  <sub><i>"Ship it, break it, understand why it broke, ship it again."</i></sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuteenAmer&hide_border=true&background=00000000&stroke=a855f7&ring=ec4899&fire=f97316&currStreakLabel=ec4899" alt="streak stats"/>
 </p>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-### `$ cat about.md`
-
-I'm a Computer Science student at the **University of Central Punjab**, Lahore — spending most of my time at the intersection of **machine learning** and **network security**, with a side habit of building full apps inside a single HTML file just to see if I can.
-
-I also run **Muteen Traders**, so half my brain thinks in models and the other half thinks in margins.
-
-**Coursework I actually use:** Networking · Cloud Computing · AI/ML · Probability & Statistics · Theory of Computation
-
-</td>
-<td width="45%" valign="top">
-  <img src="assets/terminal.svg?v=2" width="100%" alt="terminal bio"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `$ ls projects/`
-
-<details open>
-<summary><b>🛡️ IoT Network Attack Detection System</b> — Final Year Project</summary>
-<br/>
-
-Machine-learning intrusion detection system for IoT networks — Random Forest and XGBoost models behind a Flask API, surfaced through a React.js dashboard.
-
-`Python` `Flask` `React` `Scikit-learn` `XGBoost`
-</details>
-
-<details>
-<summary><b>⚡ FE-GBE Ensemble Intrusion Detection</b> — Research Paper</summary>
-<br/>
-
-A feature-engineered ensemble of LightGBM and XGBoost pushed to ~99% accuracy on the CICIoT2023 dataset. Written up as a full IEEE-format academic paper.
-
-`Python` `LightGBM` `XGBoost` `Feature Engineering` `Research`
-</details>
-
-<details>
-<summary><b>🌿 Plant Disease Detection CNN</b> — Deployed on Hugging Face</summary>
-<br/>
-
-ResNet-style convolutional network hitting 99.3% validation accuracy, live and running as a Hugging Face Space.
-
-`Python` `PyTorch` `CNN` `Hugging Face`
-</details>
-
-<details>
-<summary><b>🎨 Atelier Pro</b> — Browser-Based Photo Editor</summary>
-<br/>
-
-A full photo-editing suite — tone curves, HSL adjustment, local masking, batch export, AI-generated captions — built entirely into one self-contained HTML file. No backend, no build step.
-
-`JavaScript` `Canvas API` `HTML/CSS`
-</details>
-
-<details>
-<summary><b>🎮 Game Rating Platform</b></summary>
-<br/>
-
-Full-stack platform for rating and reviewing games.
-
-`React` `Node.js` `MongoDB`
-</details>
-
-<br/>
-
-## `$ ./stack.sh`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,flask,tensorflow,pytorch,html,css,mongodb,git,github,linux,vscode&theme=dark&perline=7" />
-</p>
-
-<br/>
-
-## `$ git log --stats`
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MuteenAmer&show_icons=true&hide_border=true&bg_color=0a0e1a&title_color=00f7ff&icon_color=7f5af0&text_color=c9d6ea&ring_color=00f7ff"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuteenAmer&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=00f7ff&text_color=c9d6ea"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuteenAmer&hide_border=true&background=0A0E1A&stroke=00f7ff&ring=7f5af0&fire=00f7ff&currStreakLabel=00f7ff&sideLabels=c9d6ea&dates=4a5b78&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats"/>
-</p>
-
-<br/>
-
-## `$ ./contribution-snake --animate`
+## 🐍 Contribution Snake
 
 <!--START_SECTION:snake-->
 <picture>
@@ -116,5 +57,5 @@ Full-stack platform for rating and reviewing games.
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0f1c2e,100:0a0e1a&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,35:a855f7,70:ec4899,100:f97316&height=100&section=footer" width="100%"/>
 </div>
