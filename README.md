@@ -1,8 +1,11 @@
 <div align="center">
   <img src="assets/banner.svg" width="100%" alt="Muhammad Muteen Amer"/>
 </div>
+
 <p align="center">
-  <p href = "muteen-amer-portfolio.netlify.app"></p>
+  <a href="https://muteen-amer-portfolio.netlify.app" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #6366f1 0%, #a855f7 50%, #ec4899 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px; margin: 10px 0;">✨ Click Here for My Portfolio ✨</a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuteenAmer&label=PROFILE%20VIEWS&color=a855f7&style=for-the-badge&labelColor=6366f1" alt="profile views"/>
   <img src="https://img.shields.io/badge/STATUS-Open%20to%20Collab-ec4899?style=for-the-badge&labelColor=f97316" alt="status"/>
@@ -40,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuteenAmer&hide_border=true&background=161B22&stroke=a855f7&ring=ec4899&fire=f97316&currStreakLabel=ec4899&sideLabels=e5e7eb&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuteenAmer&hide_border=true&background=161B22&stroke=a855f7&ring=ec4899&fire=f97316&currStreakLabel=ec4899&sideLabels=e5e7eb&dates=9cafe6"/>
 </p>
 
 <br/>
