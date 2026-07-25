@@ -5,9 +5,9 @@
 <br/>
 
 <div align="center">
-  <a href="https://muteen-amer-portfolio.netlify.app" style="display: inline-block; padding: 20px 50px; background: linear-gradient(135deg, #ec4899 0%, #f97316 50%, #6366f1 100%); color: white; text-decoration: none; font-size: 22px; font-weight: bold; border-radius: 15px; box-shadow: 0 12px 35px rgba(236, 72, 153, 0.5), 0 0 30px rgba(249, 115, 22, 0.3); transition: all 0.3s ease; border: 3px solid #ec4899; letter-spacing: 1px;">
+  <h1><a href="https://muteen-amer-portfolio.netlify.app" style="text-decoration: none; color: inherit;">
     ✨ VISIT MY PORTFOLIO ✨
-  </a>
+  </a></h1>
 </div>
 
 <br/>
@@ -44,12 +44,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuteenAmer&show_icons=true&hide_border=true&theme=radical&bg_color=161b22&title_color=ec4899&icon_color=f97316&text_color=e5e7eb"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuteenAmer&layout=compact&hide_border=true&theme=radical&bg_color=161b22&title_color=6366f1&text_color=e5e7eb"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuteenAmer&show_icons=true&hide_border=true&theme=radical&bg_color=161b22&title_color=ec4899&icon_color=f97316&text_color=e5e7eb" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuteenAmer&layout=compact&hide_border=true&theme=radical&bg_color=161b22&title_color=6366f1&text_color=e5e7eb" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuteenAmer&hide_border=true&background=161B22&stroke=a855f7&ring=ec4899&fire=f97316&currStreakLabel=ec4899&sideLabels=e5e7eb&dates=9c3d54"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuteenAmer&hide_border=true&background=161B22&stroke=a855f7&ring=ec4899&fire=f97316&currStreakLabel=ec4899&sideLabels=e5e7eb&dateFormat=M%20j%5B%2C%20Y%5D" alt="Contribution Streak"/>
 </p>
 
 <br/>
