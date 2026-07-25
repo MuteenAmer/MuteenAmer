@@ -1,7 +1,8 @@
 <div align="center">
   <img src="assets/banner.svg" width="100%" alt="Muhammad Muteen Amer"/>
 </div>
-
+<p align="center">
+  <p href = "muteen-amer-portfolio.netlify.app"></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuteenAmer&label=PROFILE%20VIEWS&color=a855f7&style=for-the-badge&labelColor=6366f1" alt="profile views"/>
   <img src="https://img.shields.io/badge/STATUS-Open%20to%20Collab-ec4899?style=for-the-badge&labelColor=f97316" alt="status"/>
